@@ -23,6 +23,7 @@
    docs/cups/index
    docs/pentacles/index
    docs/extend/index
+   docs/spread/index
 
 赞助笔记
 ~~~~~~~~
